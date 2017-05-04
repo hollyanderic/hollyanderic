@@ -25,3 +25,6 @@ color: #BEBEBE;
 .navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
 	color: #ffcc99;
 }
+.col-md-4{
+	padding: 30px;
+}
