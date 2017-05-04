@@ -1,0 +1,27 @@
+.btn-primary{
+background-color: #622599;
+}
+
+hr {
+border-color: white;
+}
+
+a.navbar-default.affix .navbar-header .navbar-brand{
+color: #622599;
+}
+
+#about{
+background-color: #BEBEBE;
+}
+
+header .header-content .header-content-inner h1{
+font-weight: 200;
+}
+
+.navbar-default.affix .navbar-header .navbar-brand{
+color: #BEBEBE;
+}
+
+.navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
+	color: #ffcc99;
+}
